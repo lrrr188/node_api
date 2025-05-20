@@ -1,6 +1,6 @@
 # School Admin Server
 
-基于 Node.js + Express + Sequelize 构建的学校管理系统后端服务
+基于 Node.js + Express + Sequelize 构建的系统后端服务
 
 ## 目录
 
@@ -23,7 +23,7 @@
 
 ## 项目简介
 
-本项目是一个现代化的学校管理系统后端服务，提供了完整的用户管理、权限控制、日志记录等功能。采用 RESTful API 设计，支持多环境部署，具有完善的错误处理和日志记录机制。
+本项目是一个现代化的系统后端服务，提供了完整的用户管理、权限控制、日志记录等功能。采用 RESTful API 设计，支持多环境部署，具有完善的错误处理和日志记录机制。
 
 ## 功能特性
 
@@ -150,7 +150,7 @@ src/
 - **controllers/**: 控制器，处理 HTTP 请求和响应
 - **services/**: 业务逻辑层，实现具体功能
 - **validations/**: 请求参数验证规则
-- **routes/**: API 路由定义和映射
+- **routes/**: API 路由定义和映射·
 
 #### config/
 - **database/**: 数据库配置和迁移
