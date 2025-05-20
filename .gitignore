@@ -1,0 +1,27 @@
+# 依赖
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 环境变量
+# .env
+
+# 日志
+logs/
+*.log
+
+# 上传文件
+uploads/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.history/
+
+# 系统文件
+.DS_Store
+Thumbs.db
